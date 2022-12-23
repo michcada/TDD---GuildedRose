@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuildedRoseTest", "TDD - GuildedRose\GuildedRoseTest.csproj", "{01ACACFA-B047-4F90-811D-BD1B8955F394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuildedRose", "GuildedRose\GuildedRose.csproj", "{CA5AF5FF-C197-4228-B7F6-0E56509462CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01ACACFA-B047-4F90-811D-BD1B8955F394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ACACFA-B047-4F90-811D-BD1B8955F394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ACACFA-B047-4F90-811D-BD1B8955F394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ACACFA-B047-4F90-811D-BD1B8955F394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5AF5FF-C197-4228-B7F6-0E56509462CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5AF5FF-C197-4228-B7F6-0E56509462CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5AF5FF-C197-4228-B7F6-0E56509462CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5AF5FF-C197-4228-B7F6-0E56509462CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B841D7E7-63E1-41C9-A779-02B2EB99458A}
+	EndGlobalSection
+EndGlobal
